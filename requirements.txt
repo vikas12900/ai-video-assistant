@@ -1,4 +1,4 @@
-yt-dlp
+
 langchain-mistralai
 torch
 
@@ -19,3 +19,4 @@ streamlit
 python-dotenv
 ffmpeg-python
 torchvision
+yt-dlp>=2025.1.0
