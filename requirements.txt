@@ -19,4 +19,4 @@ streamlit
 python-dotenv
 ffmpeg-python
 torchvision
-yt-dlp>=2025.1.0
+yt-dlp>=2025.07.21
